@@ -1,0 +1,29 @@
+.first {
+    font-family: 'Courier New', Courier, monospace;
+    font-style: italic;
+    font-size: medium;
+    font-weight: 100;
+    color:indigo;
+}
+
+#second {
+    font-family: 'Times New Roman', Times, serif;
+    font-style: bold;
+    font-size: large;
+    color: pink;
+}
+
+.third {
+    font-family: 'Courier New', Courier, monospace;
+    font-style: italic;
+    font-size: medium;
+   color: aquamarine;
+}
+
+.forth {
+    font-family: 'Courier New', Courier, monospace;
+    font-style: italic;
+    font-size: medium;
+    color: blue;
+
+}
